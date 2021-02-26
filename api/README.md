@@ -1,3 +1,4 @@
 # Strapi application
 
-A quick description of your strapi application
+I'm building an ecommerce with React, Strapi, Next JS.
+
